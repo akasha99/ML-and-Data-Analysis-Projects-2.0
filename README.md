@@ -1,10 +1,10 @@
 # ML and Data Analytics Projects 2.0 🚀
 
-Welcome to the second phase of my Data Science and Machine Learning portfolio. This repository focuses on advanced predictive analytics, **Explainable AI (XAI)**, and translating machine learning metrics into real-world business value.
+Welcome to the second version of my Data Science and Machine Learning projects. This repository focuses on advanced predictive analytics, **Explainable AI (XAI)**, and translating machine learning metrics into real-world business value.
 
 ## 📌 Projects Catalog
 
-### 1.[Term Deposit Subscription Prediction (XAI)](./Project-1-Term-Deposit-Prediction/) ✅
+### 1.[Term Deposit Subscription Prediction (XAI)](./Term-Deposit-Prediction/) ✅
 *   **Domain:** Banking / Marketing Analytics
 *   **Tech Stack:** Random Forest, Logistic Regression, SHAP, Seaborn
 *   **Outcome:** Built an interpretable classification model to predict term deposit subscriptions and extracted key drivers like Contact Duration and Economic Indicators using SHAP.
